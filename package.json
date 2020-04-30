@@ -23,7 +23,7 @@
     "gulp-imagemin": "^6.1.0",
     "gulp-postcss": "^8.0.0",
     "gulp-sass": "^4.0.2",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "dependencies": {}
 }
